@@ -769,7 +769,6 @@
   width: 100%;
   height: 280px;
   margin-left: 55px;
-
 }
 /*EVENT*/
 .home_page .event_frame {
@@ -783,6 +782,7 @@
   justify-content: center;
 
   background-image: url(../images/images/icons/event_bg.png);
+  background-size: cover;
 }
 .event_frame .container {
   flex-direction: row;
