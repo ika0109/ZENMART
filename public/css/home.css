@@ -21,7 +21,7 @@
 
 .container .category_top span {
   color: rgb(4, 30, 66);
-  font-family:  var(--font);
+  font-family: var(--font);
   font-weight: 500;
   font-size: 28px;
   line-height: 40px;
@@ -31,7 +31,7 @@
 .container .category_top a {
   margin-left: 30px;
   color: rgb(4, 30, 66);
-  font-family:  var(--font);
+  font-family: var(--font);
   font-size: 15px;
   font-weight: 500;
   line-height: 22px;
@@ -147,7 +147,7 @@
   border-radius: 6px;
   box-shadow: 0px 5px 20px rgb(0 83 246 0.1);
   color: #fff;
-  font-family:  var(--font);
+  font-family: var(--font);
   font-style: normal;
   font-size: 15px;
   font-weight: 500;
@@ -167,7 +167,7 @@
 
 .container .product_content_box .product_title {
   color: rgb(98, 105, 116);
-  font-family:  var(--font);
+  font-family: var(--font);
   font-style: normal;
   font-size: 13px;
   font-weight: 5 00;
@@ -180,7 +180,7 @@
   height: 56px;
   margin-left: 7px;
   color: rgb(4, 30, 66);
-  font-family:  var(--font);
+  font-family: var(--font);
   font-style: normal;
   font-size: 16px;
   font-weight: 500;
@@ -191,7 +191,7 @@
 .container .review_box span {
   margin-left: 10px;
   color: rgb(98, 105, 116);
-  font-family:  var(--font);
+  font-family: var(--font);
   font-style: normal;
   font-size: 14px;
   font-weight: 500;
@@ -218,7 +218,7 @@
 
 .container .price_box strong {
   color: rgb(4, 30, 66);
-  font-family:  var(--font);
+  font-family: var(--font);
   font-size: 18px;
   font-weight: 500;
   font-style: 500;
@@ -229,7 +229,7 @@
 .container .price_box span {
   margin-left: 10px;
   color: rgb(98, 105, 116);
-  font-family:  var(--font);
+  font-family: var(--font);
   font-size: 14px;
   font-style: normal;
   font-weight: 500;
@@ -279,7 +279,7 @@
   border-radius: 6px;
 
   color: rgb(4, 30, 66);
-  font-family:  var(--font);
+  font-family: var(--font);
   font-size: 15px;
   line-height: 22px;
 }
@@ -288,7 +288,7 @@
   margin-top: 10px;
   width: 428px;
 
-  font:  var(--font);
+  font: var(--font);
   font-style: normal;
   font-size: 60px;
   color: #fff;
@@ -297,7 +297,7 @@
 .header_frame .header_content p {
   margin-top: 10px;
 
-  font:  var(--font);
+  font: var(--font);
   font-size: 15px;
   letter-spacing: 0%;
   color: #fff;
@@ -314,7 +314,7 @@
   border-radius: 6px;
 
   color: rgb(4, 30, 66);
-  font-family:  var(--font);
+  font-family: var(--font);
   font-size: 15px;
   line-height: 22px;
 }
@@ -353,7 +353,7 @@
 
 .header_frame .box_left span {
   color: rgb(0, 83, 246);
-  font-family:  var(--font);
+  font-family: var(--font);
   font-size: 15px;
   line-height: 22px;
   font-style: normal;
@@ -362,7 +362,7 @@
 .header_frame .box_left p {
   margin: 10px 0;
   color: rgb(4, 30, 66);
-  font-family:  var(--font);
+  font-family: var(--font);
   font-weight: 500;
   font-size: 26px;
   line-height: 38px;
@@ -370,7 +370,7 @@
 }
 .header_frame .box_left a {
   color: rgb(4, 30, 66);
-  font-family:  var(--font);
+  font-family: var(--font);
   font-weight: 500;
   font-size: 15px;
   line-height: 22px;
@@ -423,7 +423,7 @@
 
 .service_frame .service_content span {
   color: rgb(4, 30, 66);
-  font-family:  var(--font);
+  font-family: var(--font);
   font-size: 16px;
   line-height: 28px;
   font-style: normal;
@@ -464,7 +464,7 @@
 
 .shop_category_frame .category_top span {
   color: rgb(4, 30, 66);
-  font-family:  var(--font);
+  font-family: var(--font);
   font-weight: 500;
   font-size: 28px;
   line-height: 40px;
@@ -472,7 +472,7 @@
 }
 .shop_category_frame .category_top a {
   color: rgb(4, 30, 66);
-  font-family:  var(--font);
+  font-family: var(--font);
   font-size: 15px;
   font-weight: 500;
   line-height: 22px;
@@ -515,7 +515,7 @@
   margin-top: 15px;
   text-align: center;
   color: rgb(4, 30, 66);
-  font-family:  var(--font);
+  font-family: var(--font);
   font-size: 16px;
   font-weight: 500;
   line-height: 28px;
@@ -578,7 +578,7 @@
   justify-content: center;
 
   color: rgb(0, 83, 246);
-  font-family:  var(--font);
+  font-family: var(--font);
   font-size: 18px;
   font-weight: 500;
   line-height: 26px;
@@ -636,7 +636,7 @@
 
 .spec_product_frame .big_product_content span {
   color: #041e42;
-  font-family:  var(--font);
+  font-family: var(--font);
   font-size: 15px;
   font-weight: 400;
   line-height: 22px;
@@ -646,7 +646,7 @@
 .spec_product_frame .big_product_content p {
   margin: 7px 0;
   color: rgb(4, 30, 66);
-  font-family:  var(--font);
+  font-family: var(--font);
   font-size: 26px;
   font-weight: 400;
   line-height: 38px;
@@ -655,7 +655,7 @@
 .spec_product_frame.big_product_content a {
   margin: 7px 0;
   color: rgb(4, 30, 66);
-  font-family:  var(--font);
+  font-family: var(--font);
   font-size: 15px;
   font-weight: 400;
   line-height: 22px;
@@ -702,7 +702,7 @@
 
 .spec_product_frame .small_product_content strong {
   color: rgb(4, 30, 66);
-  font-family:  var(--font);
+  font-family: var(--font);
   font-size: 16px;
   line-height: 28px;
   font-size: normal;
@@ -797,7 +797,7 @@
   justify-content: center;
 }
 .event_frame .event_content_box .event_title {
-  font-family:  var(--font);
+  font-family: var(--font);
   font-style: normal;
   font-weight: 500;
   font-size: 28px;
@@ -819,7 +819,7 @@
   flex-direction: column;
 }
 .event_frame .timer_box strong {
-  font-family:  var(--font);
+  font-family: var(--font);
   font-style: normal;
   font-weight: 500;
   font-size: 28px;
@@ -828,7 +828,7 @@
   color: #ffff;
 }
 .event_frame .timer_box span {
-  font-family:  var(--font);
+  font-family: var(--font);
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -850,7 +850,7 @@
   border: 1px solid #ffffff;
   border-radius: 6px;
 
-  font-family:  var(--font);
+  font-family: var(--font);
   font-style: normal;
   font-weight: 500;
   font-size: 15px;
